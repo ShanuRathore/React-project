@@ -5,8 +5,7 @@ import { Link, NavLink } from 'react-router-dom'
 //a tag relode whole page when it get called and make change sin DOM, and here we dont like to do that we use link 
 //in link instead of using href='' we use to=''
 
-//NavLink 
-
+//NavLink ----//
 
 function Header() {
     return (
